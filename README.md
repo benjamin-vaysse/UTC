@@ -439,7 +439,7 @@ Keywords:
 * digital economy
 
 ### GE22 : INTERNATIONAL MARKETS AND ECONOMICS -- AUTUMN 2016
-# GRADE : C
+#### GRADE : C
 
 Understanding the functioning of open economies through the study of the major theoretical schemes and their confrontation to economic history and to current events.
 
@@ -453,7 +453,7 @@ Keywords:
 * development strategies
 
 ### LA21 : SPANISH LEVEL I -- AUTUMN 2016
-# GRADE : C
+#### GRADE : C
 
 This course module is intended for those who have an elementary level in Spanish and wish to reach the intermediary level. Students will become more autonomous in everyday situations in a Spanish-speaking environment, while deepening their knowledge of spanish culture.
 
@@ -462,4 +462,4 @@ Keywords:
 * Spanish B1 Level
 
 
-## GPA : 3.51/5 
+## GPA : 3.51/5
