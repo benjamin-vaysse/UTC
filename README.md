@@ -2,7 +2,7 @@
 
 List of Scientific, Technology and Human Sciences courses
 
-#GPA : 3.51
+# GPA : 3.51
 
 ## Scientific knowledge
 
