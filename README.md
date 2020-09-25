@@ -1,24 +1,22 @@
 # Université de Technologie de Compiègne
 
-List of Scientific, Technology and Human Sciences courses
+List of Scientific, Technology and Human Sciences courses 
 
-# GPA : 4.25/5
+- A : >18/20
+- B : >16/20
+- C : >14/20
+- D : >12/20
+- E : >10/20
+- F : <10/20 (class is failed)
+
+Note : courses from exchange semesters (Slovakia in 2018 and Colombia in 2020) are not included.
+
+# GPA : 4/5
 
 ## Scientific knowledge
 
-### SY02 : STATISTICAL METHODS FOR RESEARCH AND MANUFACTURING -- SPRING 2019
-
-The goal of this course is to familiarize the students with the concepts and the mode of reasoning of the inferential statistics. Three important applications are studied : point estimation, construction of the confidence intervals and hypothesis testing.
-
-Keywords:
-
-* estimation
-* confidence intervals
-* linear regression
-* hypothesis testing
-* analysis of variance
-
 ### IA02 : PROBLEM SOLVING AND LOGIC PROGRAMMING -- SPRING 2019
+#### GRADE : D
 
 The objective of this course is to present some problem solving and programming method. Principal aspects of the first-order logic.
 
@@ -32,6 +30,7 @@ Keywords:
 * games theory
 
 ### RO03 : OPERATIONS RESEARCH : COMBINATORIAL OPTIMIZATION -- SPRING 2019
+#### GRADE : D
 
 The aim of this course is to give fundamental notions on the algorithm's complexity theory and to teach numerous techniques based on graph theory in order to resolve combinatorial problems.
 
@@ -91,19 +90,6 @@ Keywords:
 * computability
 * languages
 
-### MT23 : LINEAR ALGEBRA AND APPLICATION -- AUTUMN 2017
-#### GRADE : F
-
-Bases of linear algebra and applications. The student is expected to acquire a solid knowledge of the basic concepts of linear algebra and to be able to apply them to physical problems when needed.
-
-Keywords:
-
-* linear spaces
-* linear mappings
-* eigenvalues and eigenvectors
-* scalar products
-* systems of linear differential equations
-
 ### MT22 : FUNCTIONS OF SEVERAL REAL VARIABLES AND VECTOR ANALYSIS -- SPRING 2017
 #### GRADE : E
 
@@ -141,7 +127,7 @@ Keywords:
 * variable state
 * sinusoidal state established
 
-### PS21 : PS21 : NEWTONIAN MECHANICS -- AUTUMN 2017
+### PS21 : NEWTONIAN MECHANICS -- AUTUMN 2017
 #### GRADE : D
 
 This course introduces notions of physics allowing to approach the study of the movement. One of the objectives is to formalize a problem of mechanics and to mobilize the mathematical knowledge necessary for its resolution.
@@ -206,7 +192,39 @@ Keywords:
 
 ## Techniques & methods
 
+### LO23 : IT PROJECT MANAGEMENT -- AUTUMN 2020
+
+This module aims to introduce the fundamentals of project management and quality assurance in the Information Technology domain. Students will also team up to manage a software development project.
+
+Keywords: 	
+
+* Project management
+* Quality assurance
+* Development cycle
+* CMMI
+
+### EG01 : ERGONOMICS -- AUTUMN 2020
+
+The course's objective is to introduce to students the ergonomic approach of work situations and product or technical systems design After teaching, students will be able to apply the principles of Ergonomics work situations or usage in the design and evaluation of "general public" products.
+
+Keywords :	
+* Ergonomics
+* work situations
+* product
+* design
+
+### MI01 : ARCHITECTURE OF A PROCESSING ELEMENT -- AUTUMN 2020
+
+This course provides basic elements to understand the architecture of a data processing system. How to chose the implementation: simple hardwired logic or a programmed solution using a microprocessor and its interfaces. The secrets behind the success of recent multi-core processors will be presented too.
+
+Keywords :	
+* Microprocessors 
+* Field Programmable Device 
+* VHDL 
+* Pentium processors
+
 ### LO21 : OBJECT-ORIENTED PROGRAMMING AND DESIGN -- SPRING 2019
+#### GRADE : D
 
 Study and implementation of the different concepts and tools linked to object-oriented programming and design.
 
@@ -268,7 +286,7 @@ Keywords:
 * composite and plastic materials
 * metrology
 
-### TN03 :  -- AUTUMN 2017
+### TN03 : MECANICAL MANUFACTURING -- AUTUMN 2017
 #### GRADE : D
 
 This unit will allow the future engineer to carry out a project clearly defined at the beginning of the semester. It is maily done through workshops.
@@ -326,8 +344,24 @@ Keywords:
 
 ## Communication, culture & technology, management
 
-### SP02 : MANAGING A SPORT PROJECT : UNIVERSITY RUGBY TEAM -- SPRING 2019
+### LA24 : THE HISPANIC WORLD OF TODAY: LATIN AMERICA (LEVEL IV)
 
+LA 24 enables students to deepen their knowledge of Hispano-américain cultural diversity and to further improve their capacity to communiate in multicultural environments.
+
+Keywords :	
+* language
+* lspeech
+* conference
+* cultural representations
+* civilisation
+* debates
+* Latin Americain reality
+* langage and discourse
+* culture
+* the arts
+
+### SP02 : MANAGING A SPORT PROJECT : UNIVERSITY RUGBY TEAM -- SPRING 2019
+#### GRADE : A
 
 Real coaching of a sports activity or sports project or realization of a personal sports project.
 
@@ -340,7 +374,7 @@ Keywords:
 * responsibility
 
 ### LA15 : CONTEMPORARY ISSUES IN THE ANGLO-SAXON WORLD (GLIMPSES THROUGH LITERATURE AND THE CINEMA) -- SPRING 2019
-
+#### GRADE : C
 
 C1 - C2 level course. Students will choose to work on one of the following themes: a) The World of Work b) Current Affairs, Politics and Economics c) Science and Technology. The various activities(translation, presentations, debates, mini-seminars,writing a short story, writing a synthesis paper) will involve 24 hours of class time, as well as intensive private study (72h).
 
